@@ -1,0 +1,7 @@
+установка: файл rabbitma-server.....exe
+opt_win64_26....exe
+
+Command promt
+rabbitmq-plugins enable rabbitmq_management
+рестартует сервис rabbitmq серевер
+localhost:15672
